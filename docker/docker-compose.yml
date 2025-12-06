@@ -1,0 +1,10 @@
+services:
+app:
+build: ./
+ports:
+- "8501:8501"
+volumes:
+- ./:/app
+environment:
+- EMB_MODEL=sentence-transformers/all-MiniLM-L6-v2
+# Chroma persists to local folder; for cloud, mount a volume

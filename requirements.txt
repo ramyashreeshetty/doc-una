@@ -1,0 +1,10 @@
+beautifulsoup4==4.12.3
+readability-lxml==0.8.1
+requests==2.32.3
+yamlfix==1.16.0
+PyYAML==6.0.2
+sentence-transformers==3.0.1
+chromadb==0.5.5
+rank-bm25==0.2.2
+streamlit==1.37.1
+pytest==8.3.2

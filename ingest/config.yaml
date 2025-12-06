@@ -1,0 +1,55 @@
+# ingest/config.yaml
+name: fastapi-docs-curated
+base_url: https://fastapi.tiangolo.com
+urls:
+# Intro & Tutorial Core
+- /
+- /tutorial/first-steps/
+- /tutorial/path-params/
+- /tutorial/query-params/
+- /tutorial/body/
+- /tutorial/body-nested-models/
+- /tutorial/body-fields/
+- /tutorial/query-params-str-validations/
+- /tutorial/path-params-numeric-validations/
+- /tutorial/body-updates/
+- /tutorial/header-params/
+- /tutorial/cookie-params/
+- /tutorial/request-forms/
+- /tutorial/request-form-models/
+- /tutorial/request-files/
+- /tutorial/request-forms-and-files/
+- /tutorial/response-model/
+- /tutorial/response-status-code/
+- /tutorial/handling-errors/
+- /tutorial/dependencies/
+- /tutorial/dependencies/classes-as-dependencies/
+- /tutorial/dependencies/sub-dependencies/
+- /tutorial/middleware/
+- /tutorial/background-tasks/
+- /tutorial/testing/
+
+
+# Pydantic models & settings
+- /tutorial/schema-extra-example/
+- /tutorial/extra-models/
+- /tutorial/sql-databases/
+- /advanced/settings/       
+
+
+# Security basics
+- /tutorial/security/first-steps/
+- /tutorial/security/oauth2-jwt/
+
+
+# Advanced usage (small, impactful)
+- /advanced/path-operation-advanced-configuration/
+- /advanced/response-directly/
+- /advanced/response-change-status-code/
+- /advanced/additional-responses/
+- /advanced/custom-response/
+- /advanced/using-request-directly/
+- /advanced/events/
+- /advanced/response-cookies/
+- /advanced/response-headers/
+

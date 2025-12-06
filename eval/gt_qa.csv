@@ -1,0 +1,23 @@
+id,question,answer,source,title,section,url
+hq_0,What does Settings and Environment Variables cover in FastAPI?,"participant code as Code
+participant function as say_hi()
+participant execute as Execute function
+rect rgba(0, 255, 0, .1)
+code ->> function: say_hi(name=""Camila"")
+function ->> execute: execute function code
+execute ->> code: return the result",advanced__settings.md,Settings and Environment Variables,Settings and Environment Variables,https://fastapi.tiangolo.com/advanced/settings/
+hq_1,What does Body - Fields cover in FastAPI?,"As these keys may not necessarily be part of the OpenAPI specification, some OpenAPI tools, for examplethe OpenAPI validator, may not work with your generated schema.FieldRecap¶You can use Pydantic'sFieldto declare extra validations and metadata for model attributes.FieldYou can also use the extra keyword arguments to pass additional JSON Schema metadata.",tutorial__body-fields.md,Body - Fields,Body - Fields,https://fastapi.tiangolo.com/tutorial/body-fields/
+hq_2,What does Dependencies cover in FastAPI?,"common_parameters([""common_parameters""])
+read_items[""/items/""]
+read_users[""/users/""]
+common_parameters --> read_items
+common_parameters --> read_usersgraph TB
+common_parameters([""common_parameters""])
+read_items[""/items/""]",tutorial__dependencies.md,Dependencies,Dependencies,https://fastapi.tiangolo.com/tutorial/dependencies/
+hq_3,What does Sub-dependencies cover in FastAPI?,"query_extractor([""query_extractor""])
+query_or_cookie_extractor([""query_or_cookie_extractor""])
+read_query[""/items/""]
+query_extractor --> query_or_cookie_extractor --> read_querygraph TB
+query_extractor([""query_extractor""])
+query_or_cookie_extractor([""query_or_cookie_extractor""])
+read_query[""/items/""]",tutorial__dependencies__sub-dependencies.md,Sub-dependencies,Sub-dependencies,https://fastapi.tiangolo.com/tutorial/dependencies/sub-dependencies/

@@ -1,0 +1,162 @@
+{
+  "index.md": {
+    "title": "FastAPI¶",
+    "url": "https://fastapi.tiangolo.com/"
+  },
+  "tutorial__first-steps.md": {
+    "title": "First Steps¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/first-steps/"
+  },
+  "tutorial__path-params.md": {
+    "title": "Path Parameters¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/path-params/"
+  },
+  "tutorial__query-params.md": {
+    "title": "Query Parameters¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/query-params/"
+  },
+  "tutorial__body.md": {
+    "title": "Request Body¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/body/"
+  },
+  "tutorial__body-nested-models.md": {
+    "title": "Body - Nested Models¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/body-nested-models/"
+  },
+  "tutorial__body-fields.md": {
+    "title": "Body - Fields¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/body-fields/"
+  },
+  "tutorial__query-params-str-validations.md": {
+    "title": "Query Parameters and String Validations¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/query-params-str-validations/"
+  },
+  "tutorial__path-params-numeric-validations.md": {
+    "title": "Path Parameters and Numeric Validations¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/path-params-numeric-validations/"
+  },
+  "tutorial__body-updates.md": {
+    "title": "Body - Updates¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/body-updates/"
+  },
+  "tutorial__header-params.md": {
+    "title": "Header Parameters¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/header-params/"
+  },
+  "tutorial__cookie-params.md": {
+    "title": "Cookie Parameters¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/cookie-params/"
+  },
+  "tutorial__request-forms.md": {
+    "title": "Form Data¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/request-forms/"
+  },
+  "tutorial__request-form-models.md": {
+    "title": "Form Models¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/request-form-models/"
+  },
+  "tutorial__request-files.md": {
+    "title": "Request Files¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/request-files/"
+  },
+  "tutorial__request-forms-and-files.md": {
+    "title": "Request Forms and Files¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/request-forms-and-files/"
+  },
+  "tutorial__response-model.md": {
+    "title": "Response Model - Return Type¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/response-model/"
+  },
+  "tutorial__response-status-code.md": {
+    "title": "Response Status Code¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/response-status-code/"
+  },
+  "tutorial__handling-errors.md": {
+    "title": "Handling Errors¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/handling-errors/"
+  },
+  "tutorial__dependencies.md": {
+    "title": "Dependencies¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/dependencies/"
+  },
+  "tutorial__dependencies__classes-as-dependencies.md": {
+    "title": "Classes as Dependencies¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/dependencies/classes-as-dependencies/"
+  },
+  "tutorial__dependencies__sub-dependencies.md": {
+    "title": "Sub-dependencies¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/dependencies/sub-dependencies/"
+  },
+  "tutorial__middleware.md": {
+    "title": "Middleware¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/middleware/"
+  },
+  "tutorial__background-tasks.md": {
+    "title": "Background Tasks¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/background-tasks/"
+  },
+  "tutorial__testing.md": {
+    "title": "Testing¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/testing/"
+  },
+  "tutorial__schema-extra-example.md": {
+    "title": "Declare Request Example Data¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/schema-extra-example/"
+  },
+  "tutorial__extra-models.md": {
+    "title": "Extra Models¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/extra-models/"
+  },
+  "tutorial__sql-databases.md": {
+    "title": "SQL (Relational) Databases¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/sql-databases/"
+  },
+  "advanced__settings.md": {
+    "title": "Settings and Environment Variables¶",
+    "url": "https://fastapi.tiangolo.com/advanced/settings/"
+  },
+  "tutorial__security__first-steps.md": {
+    "title": "Security - First Steps¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/security/first-steps/"
+  },
+  "tutorial__security__oauth2-jwt.md": {
+    "title": "OAuth2 with Password (and hashing), Bearer with JWT tokens¶",
+    "url": "https://fastapi.tiangolo.com/tutorial/security/oauth2-jwt/"
+  },
+  "advanced__path-operation-advanced-configuration.md": {
+    "title": "Path Operation Advanced Configuration¶",
+    "url": "https://fastapi.tiangolo.com/advanced/path-operation-advanced-configuration/"
+  },
+  "advanced__response-directly.md": {
+    "title": "Return a Response Directly¶",
+    "url": "https://fastapi.tiangolo.com/advanced/response-directly/"
+  },
+  "advanced__response-change-status-code.md": {
+    "title": "Response - Change Status Code¶",
+    "url": "https://fastapi.tiangolo.com/advanced/response-change-status-code/"
+  },
+  "advanced__additional-responses.md": {
+    "title": "Additional Responses in OpenAPI¶",
+    "url": "https://fastapi.tiangolo.com/advanced/additional-responses/"
+  },
+  "advanced__custom-response.md": {
+    "title": "Custom Response - HTML, Stream, File, others¶",
+    "url": "https://fastapi.tiangolo.com/advanced/custom-response/"
+  },
+  "advanced__using-request-directly.md": {
+    "title": "Using the Request Directly¶",
+    "url": "https://fastapi.tiangolo.com/advanced/using-request-directly/"
+  },
+  "advanced__events.md": {
+    "title": "Lifespan Events¶",
+    "url": "https://fastapi.tiangolo.com/advanced/events/"
+  },
+  "advanced__response-cookies.md": {
+    "title": "Response Cookies¶",
+    "url": "https://fastapi.tiangolo.com/advanced/response-cookies/"
+  },
+  "advanced__response-headers.md": {
+    "title": "Response Headers¶",
+    "url": "https://fastapi.tiangolo.com/advanced/response-headers/"
+  }
+}
